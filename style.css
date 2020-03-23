@@ -1,0 +1,14 @@
+body {
+    background-color: #6bc4fb;
+    color: black;
+    -webkit-text-stroke: #ffffff 1px;
+    text-align: center;
+    font-size: 30px;
+    font-family: "Nico Moji";
+}
+
+#result {
+    font-size: 60px;
+    color: red;
+    -webkit-text-stroke: white 1px;
+}
